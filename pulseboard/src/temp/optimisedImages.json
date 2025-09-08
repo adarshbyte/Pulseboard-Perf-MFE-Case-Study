@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Fronalpstock Alps",
+    "src": "https://picsum.photos/id/1018/800/450",
+    "srcset": "https://picsum.photos/id/1018/480/270 480w, https://picsum.photos/id/1018/800/450 800w, https://picsum.photos/id/1018/1200/675 1200w, https://picsum.photos/id/1018/1600/900 1600w, https://picsum.photos/id/1018/1920/1080 1920w",
+    "sizes": "(max-width: 900px) 100vw, 800px",
+    "placeholder": "https://picsum.photos/id/1018/32/18",
+    "width": 800,
+    "height": 450
+  },
+  {
+    "id": 2,
+    "title": "Taj Mahal Reflection",
+    "src": "https://picsum.photos/id/1015/800/450",
+    "srcset": "https://picsum.photos/id/1015/480/270 480w, https://picsum.photos/id/1015/800/450 800w, https://picsum.photos/id/1015/1200/675 1200w, https://picsum.photos/id/1015/1600/900 1600w, https://picsum.photos/id/1015/1920/1080 1920w",
+    "sizes": "(max-width: 900px) 100vw, 800px",
+    "placeholder": "https://picsum.photos/id/1015/32/18",
+    "width": 800,
+    "height": 450
+  },
+  {
+    "id": 3,
+    "title": "Mt. Everest Panorama",
+    "src": "https://picsum.photos/id/1016/800/450",
+    "srcset": "https://picsum.photos/id/1016/480/270 480w, https://picsum.photos/id/1016/800/450 800w, https://picsum.photos/id/1016/1200/675 1200w, https://picsum.photos/id/1016/1600/900 1600w, https://picsum.photos/id/1016/1920/1080 1920w",
+    "sizes": "(max-width: 900px) 100vw, 800px",
+    "placeholder": "https://picsum.photos/id/1016/32/18",
+    "width": 800,
+    "height": 450
+  },
+  {
+    "id": 4,
+    "title": "Louvre Museum at Night",
+    "src": "https://picsum.photos/id/1025/800/450",
+    "srcset": "https://picsum.photos/id/1025/480/270 480w, https://picsum.photos/id/1025/800/450 800w, https://picsum.photos/id/1025/1200/675 1200w, https://picsum.photos/id/1025/1600/900 1600w, https://picsum.photos/id/1025/1920/1080 1920w",
+    "sizes": "(max-width: 900px) 100vw, 800px",
+    "placeholder": "https://picsum.photos/id/1025/32/18",
+    "width": 800,
+    "height": 450
+  },
+  {
+    "id": 5,
+    "title": "Grand Canyon",
+    "src": "https://picsum.photos/id/1024/800/450",
+    "srcset": "https://picsum.photos/id/1024/480/270 480w, https://picsum.photos/id/1024/800/450 800w, https://picsum.photos/id/1024/1200/675 1200w, https://picsum.photos/id/1024/1600/900 1600w, https://picsum.photos/id/1024/1920/1080 1920w",
+    "sizes": "(max-width: 900px) 100vw, 800px",
+    "placeholder": "https://picsum.photos/id/1024/32/18",
+    "width": 800,
+    "height": 450
+  },
+  {
+    "id": 6,
+    "title": "Aurora Borealis",
+    "src": "https://picsum.photos/id/1003/800/450",
+    "srcset": "https://picsum.photos/id/1003/480/270 480w, https://picsum.photos/id/1003/800/450 800w, https://picsum.photos/id/1003/1200/675 1200w, https://picsum.photos/id/1003/1600/900 1600w, https://picsum.photos/id/1003/1920/1080 1920w",
+    "sizes": "(max-width: 900px) 100vw, 800px",
+    "placeholder": "https://picsum.photos/id/1003/32/18",
+    "width": 800,
+    "height": 450
+  },
+  {
+    "id": 7,
+    "title": "Cathedral of Milan",
+    "src": "https://picsum.photos/id/1005/800/450",
+    "srcset": "https://picsum.photos/id/1005/480/270 480w, https://picsum.photos/id/1005/800/450 800w, https://picsum.photos/id/1005/1200/675 1200w, https://picsum.photos/id/1005/1600/900 1600w, https://picsum.photos/id/1005/1920/1080 1920w",
+    "sizes": "(max-width: 900px) 100vw, 800px",
+    "placeholder": "https://picsum.photos/id/1005/32/18",
+    "width": 800,
+    "height": 450
+  },
+  {
+    "id": 8,
+    "title": "Eiffel Tower",
+    "src": "https://picsum.photos/id/1011/800/450",
+    "srcset": "https://picsum.photos/id/1011/480/270 480w, https://picsum.photos/id/1011/800/450 800w, https://picsum.photos/id/1011/1200/675 1200w, https://picsum.photos/id/1011/1600/900 1600w, https://picsum.photos/id/1011/1920/1080 1920w",
+    "sizes": "(max-width: 900px) 100vw, 800px",
+    "placeholder": "https://picsum.photos/id/1011/32/18",
+    "width": 800,
+    "height": 450
+  },
+  {
+    "id": 9,
+    "title": "London Bridge",
+    "src": "https://picsum.photos/id/1012/800/450",
+    "srcset": "https://picsum.photos/id/1012/480/270 480w, https://picsum.photos/id/1012/800/450 800w, https://picsum.photos/id/1012/1200/675 1200w, https://picsum.photos/id/1012/1600/900 1600w, https://picsum.photos/id/1012/1920/1080 1920w",
+    "sizes": "(max-width: 900px) 100vw, 800px",
+    "placeholder": "https://picsum.photos/id/1012/32/18",
+    "width": 800,
+    "height": 450
+  },
+  {
+    "id": 10,
+    "title": "Swiss Alps Lake",
+    "src": "https://picsum.photos/id/1001/800/450",
+    "srcset": "https://picsum.photos/id/1001/480/270 480w, https://picsum.photos/id/1001/800/450 800w, https://picsum.photos/id/1001/1200/675 1200w, https://picsum.photos/id/1001/1600/900 1600w, https://picsum.photos/id/1001/1920/1080 1920w",
+    "sizes": "(max-width: 900px) 100vw, 800px",
+    "placeholder": "https://picsum.photos/id/1001/32/18",
+    "width": 800,
+    "height": 450
+  }
+]
